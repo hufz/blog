@@ -1,2 +1,1 @@
-# blog
-blog博客
+# blog博客
